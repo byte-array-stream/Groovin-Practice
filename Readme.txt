@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+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
 
-Template Name: Groovin
-Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+git clone -b master https://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:byte-array-stream@github.com/byte-array-stream/Groovin-Practice.git
